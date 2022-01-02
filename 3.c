@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf("good morninggg");
+printf("good night");
+printf("good evening1");
 }
